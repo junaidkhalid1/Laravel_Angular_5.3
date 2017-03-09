@@ -8,6 +8,7 @@
 - Laravel as backend.
 - AngularJS as frontend.
 
+Frontend repository can be found here. [link](https://github.com/junaidkhalid1/Angular-Laravel-Frontend)
 
 ###FR ( Développement en cours )
 
@@ -18,3 +19,5 @@
 
 - Laravel comme backend
 - AngularJS comme frontend.
+
+Frontend référentiel peut être trouvé ici. [link](https://github.com/junaidkhalid1/Angular-Laravel-Frontend)
