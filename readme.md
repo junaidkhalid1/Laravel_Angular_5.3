@@ -1,6 +1,8 @@
-##Frontend Laravel and Backend AngularJS Practices
+##Frontend Laravel and Backend AngularJS (The Quote)
 
 ###EN ( Development in process)
+
+## Laravel Code (Backend)
 
 ####Creation of a website on which users can post their quotes.
 
@@ -12,6 +14,7 @@ Frontend repository can be found here. [link](https://github.com/junaidkhalid1/A
 
 ###FR ( Développement en cours )
 
+## Laravel Code (Backend)
 
 ####Création d'un site Web sur lequel les utilisateurs peuvent publier leurs citations.
 
