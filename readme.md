@@ -1,4 +1,4 @@
-## Frontend Laravel and Backend AngularJS/VueJS (The Quote)
+## Backend Laravel and Frontend AngularJS/VueJS (The Quote)
 
 ### EN ( Development in process)
 
