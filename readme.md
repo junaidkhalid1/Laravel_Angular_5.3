@@ -1,4 +1,4 @@
-##Frontend Laravel and Backend AngularJS (The Quote)
+##Frontend Laravel and Backend AngularJS/VueJS (The Quote)
 
 ###EN ( Development in process)
 
@@ -9,8 +9,11 @@
 ####Structure:
 - Laravel as backend.
 - AngularJS as frontend.
+- VueJS also used as frontend for the same backend.
 
-Frontend repository can be found here. [link](https://github.com/junaidkhalid1/Angular-Laravel-Frontend)
+AngularJS Frontend repository can be found here. [link](https://github.com/junaidkhalid1/Angular-Laravel-Frontend)
+
+VueJS Frontend repository can be found here. [link](https://github.com/junaidkhalid1/Vue-Laravel-Frontend)
 
 ###FR ( Développement en cours )
 
@@ -22,5 +25,8 @@ Frontend repository can be found here. [link](https://github.com/junaidkhalid1/A
 
 - Laravel comme backend
 - AngularJS comme frontend.
+- VueJS a aussi utilisé comme frontend.
 
-Frontend référentiel peut être trouvé ici. [link](https://github.com/junaidkhalid1/Angular-Laravel-Frontend)
+AngularJS Frontend référentiel peut être trouvé ici. [link](https://github.com/junaidkhalid1/Angular-Laravel-Frontend)
+
+VueJS Frontend référentiel peut être trouvé ici. [link](https://github.com/junaidkhalid1/Vue-Laravel-Frontend)
