@@ -1,12 +1,12 @@
-##Frontend Laravel and Backend AngularJS/VueJS (The Quote)
+## Frontend Laravel and Backend AngularJS/VueJS (The Quote)
 
-###EN ( Development in process)
+### EN ( Development in process)
 
 ## Laravel Code (Backend)
 
-####Creation of a website on which users can post their quotes.
+#### Creation of a website on which users can post their quotes.
 
-####Structure:
+#### Structure:
 - Laravel as backend.
 - AngularJS as frontend.
 - VueJS also used as frontend for the same backend.
@@ -15,13 +15,13 @@ AngularJS Frontend repository can be found here. [link](https://github.com/junai
 
 VueJS Frontend repository can be found here. [link](https://github.com/junaidkhalid1/Vue-Laravel-Frontend)
 
-###FR ( Développement en cours )
+### FR ( Développement en cours )
 
 ## Laravel Code (Backend)
 
-####Création d'un site Web sur lequel les utilisateurs peuvent publier leurs citations.
+#### Création d'un site Web sur lequel les utilisateurs peuvent publier leurs citations.
 
-####Structure:
+#### Structure:
 
 - Laravel comme backend
 - AngularJS comme frontend.
